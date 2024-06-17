@@ -1,2 +1,3 @@
 rustdesk/rustdesk-server
 enwaiax/x-ui:latest
+hxiansen/wxbot
